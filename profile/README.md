@@ -2,21 +2,19 @@
 
 ![Logo](/profile/assets/img/logo.png)
 
-Welcome to the official page of AGL Electronics. We're at the forefront of innovation, crafting electronics that empower our customers and communities. Dive into our world of cutting-edge technology and join us in shaping the future.
+Welcome to the official page of Guide Start and Fly. We're at the forefront of innovation, crafting electronics that empower our customers and communities. Dive into our world of cutting-edge technology and join us in shaping the future.
 
 ## About Us
 
-AGL Electronics, founded in [Year], has steadily grown to become a leading name in the electronics industry. Our mission is to design and manufacture electronics that not only meet but exceed our customers' expectations in terms of quality, innovation, and sustainability.
+Guide Start and Fly, founded in [Year], has steadily grown to become a leading name in the electronics industry. Our mission is to design and manufacture electronics that not only meet but exceed our customers' expectations in terms of quality, innovation, and sustainability.
 
 ## Our Products
 
-- **Smart Home Devices**: Revolutionizing your living spaces with intelligent design.
-- **Wearable Tech**: Enhancing your lifestyle with smart wearable technology.
-- **Consumer Electronics**: From smartphones to TVs, quality at every step.
+
 
 ## Our Mission
 
-To innovate and inspire through technology. At AGL Electronics, we are dedicated to creating products that improve lives and solve real-world problems. We are committed to sustainability, striving to minimize our environmental footprint through eco-friendly practices and products.
+To innovate and inspire through technology. At Guide Start and Fly, we are dedicated to creating products that improve lives and solve real-world problems. We are committed to sustainability, striving to minimize our environmental footprint through eco-friendly practices and products.
 
 ## Community Involvement
 
@@ -34,13 +32,12 @@ Are you passionate about technology and innovation? There are several ways to ge
 
 For inquiries, support, or more information:
 
-- **Email**: <contact@agleelectronics.com>
-- **Twitter**: [@AGLElectronics](twitter-handle-link)
-- **LinkedIn**: [AGL Electronics](linkedin-profile-link)
+- **Email**: <contact@guidestartandfly.com>
+- **Twitter**: [@GuideStartandFly](twitter-handle-link)
+- **LinkedIn**: [Guide Start and Fly](linkedin-profile-link)
 
 We're excited to connect with you!
 
 ---
 
 Thank you for visiting our profile. Together, we can create a brighter, smarter, and more connected world.
-
